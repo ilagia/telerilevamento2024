@@ -1,5 +1,6 @@
 #First R script
 
+#operazioni matematiche
 a <- 6 * 7
 b <- 5 * 8
 
