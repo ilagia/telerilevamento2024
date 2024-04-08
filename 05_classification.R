@@ -24,9 +24,13 @@ m2006 <- im.import("matogrosso_ast_2006209_lrg.jpg")
 
 m1992c <- im.classify(m1992, num_clusters=2)   
 # class 1= human 
-#class 2= forest
+# class 2 = forest
 #possono anche essere invertite
+
 m2006c <- im.classify(m2006, num_clusters=2)
+# class 1 = foresta
+# class 2 = human #o al contrario
+
 
 
 
