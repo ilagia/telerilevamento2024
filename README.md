@@ -20,3 +20,4 @@ non è richiesta nessuna conoscienza pregressa
  jvnfèoweuwe
 > **maggiore e doppi * per mettere i titoletti**
 > **link esterni**
+[quello che si vedrà, tra le tonde il link](https://www.google.com/search?q=wikipedia&rlz=1C1PRFI_enIT769IT769&oq=wikipe&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBggBEEUYOTINCAIQABiDARixAxiABDIHCAMQABiABDIGCAQQABgDMgcIBRAAGIAEMg8IBhAAGAoYgwEYsQMYgAQyDQgHEAAYgwEYsQMYgAQyBwgIEAAYjwIyBwgJEAAYjwKoAgCwAgA&sourceid=chrome&ie=UTF-8)
